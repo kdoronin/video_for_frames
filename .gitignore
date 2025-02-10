@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Video files
+video/*
+!video/.gitkeep
+
+# Image files
+images/*
+!images/.gitkeep
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+.DS_Store 
